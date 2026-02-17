@@ -1,379 +1,791 @@
 ---
 title: "课前预习资料"
 subtitle: "Pre-class Preparation & Resources"
+format: html
 ---
 
 ::: {.callout-tip appearance="simple"}
 ## 👋 预习指南
 
-请同学们根据目前的教学进度，点击下方对应的 **单元** 和 **周次**，完成预习任务。
+请同学们根据目前的教学进度，展开对应单元，完成预习任务。
 :::
 
 # 🌱 第一单元：生命的胶囊
 
-::: panel-tabset
+<details>
+<summary><strong>点击展开 第一单元</strong></summary>
+
 ## W1: 千奇百怪的种子
 
-**本周主题：种子内部结构与多样性**
+**本周主题：种子结构**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：种子的定义。*
 
-了解种子的内部构造（胚根、胚芽、子叶）。
-
-::: {style="position: relative; padding-bottom: 56.25%; height: 0; overflow: hidden;"}
-<iframe src="//player.bilibili.com/player.html?bvid=BV1Kvd7YuEA9&page=1&high_quality=1&danmaku=0" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;"> </iframe>
-:::
-
-*视频来源：Bilibili*
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w1_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
 ### 📖 双语阅读 (Reading Time)
-*请大声朗读下面的短文，加粗的单词是本周的重点哦！* （确认过后我会用这个title）
 
-### 📖 双语阅读 (Reading Time)
-*我们在研发最适合同学们的阅读材料。请阅读以下两个版本，告诉老师你更喜欢哪一个？*
-
-::: {.panel-tabset}
-
-## 🅰️ 版本一 (学术版)
-
-::: {.callout-note appearance="minimal"}
-**Inside every protective seed, a tiny embryo waits for the right time to grow.**
-在每一颗起保护作用的 **种子 (seed)** 里，一个微小的 **胚胎 (embryo)** 等待着合适的生长时机。
-
-**Botanists distinguish flowering plants into two groups based on this early stage.**
-植物学家根据这一早期阶段将开花植物分为两类。
-
-**A monocot produces only one seed leaf as it sprouts.**
-**单子叶植物 (monocot)** 在发芽时只长出一片子叶。
-
-**However, a dicot always has a pair of leaves.**
-然而，**双子叶植物 (dicot)** 总是拥有一对叶子。
-
-**This simple trait determines how the entire plant functions.**
-这个简单的特征决定了整株植物的运作方式。
-:::
-
-## 🅱️ 版本二 (简单版)
-
-::: {.callout-tip appearance="minimal"}
-### Science in a Seed (种子里的科学)
-
-**Every seed holds a tiny baby plant called an embryo.**
-每一颗 **种子 (seed)** 里都藏着一个叫作 **胚 (embryo)** 的小植物。
-
-**Scientists group these plants into monocots and dicots.**
-科学家把这些植物分为 **单子叶植物 (monocots)** 和 **双子叶植物 (dicots)**。
-
-**A monocot embryo has only one starting leaf.**
-**单子叶植物 (monocot)** 的胚只有一片初始的叶子（子叶）。
-
-**But a dicot embryo has two leaves inside.**
-但是 **双子叶植物 (dicot)** 的胚里面有两片叶子。
-
-**You see this difference clearly when the plant starts to grow.**
-当植物开始生长时，你能清楚地看到这种区别。
-:::
-
-:::
+> **A seed is like a small box with a baby plant inside.**
+> **种子 (seed)** 就像一个装有幼小植物的小盒子。
+>
+> **This tiny baby plant is called an embryo.**
+> 这个微小的幼苗被称作 **胚 (embryo)**。
+>
+> **Each seed has a special structure to help it grow.**
+> 每颗种子都有特殊的 **结构 (structure)** 来帮助它生长。
+>
+> **Soybeans are dicots because they have two thick parts.**
+> 大豆是 **双子叶植物 (dicots)** ，因为它们有两个肥厚的部分。
+>
+> **Looking inside helps us see how a new life begins.**
+> 观察内部能帮我们看清一个新生命是如何开始的。
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文        | 音标       | 中文释义   |
-|:------------|:-----------|:-----------|
-| **Seed**    | /siːd/     | 种子       |
-| **Embryo**  | /ˈembriəʊ/ | 胚         |
-| **Monocot** | /ˈmɒnəkɒt/ | 单子叶植物 |
-| **Dicot**   | /ˈdaɪkɒt/  | 双子叶植物 |
-
-### 🎒 准备工作
-
--   收集家中不同种类的豆子或谷物（用于制作种子马赛克画）。
--   准备一本新的观察日记本。
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Embryo** | [ˈembriəʊ] | 胚 |
+| **Structure** | [ˈstrʌktʃə(r)] | 结构 |
+| **Dicot** | [ˈdaɪkɒt] | 双子叶植物 |
 
 ## W2: 唤醒沉睡的生命
 
-**本周主题：探究种子萌发的条件（水、空气、温度）**
+**本周主题：萌发条件**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：萌发的过程。*
 
-种子发芽需要什么条件？什么是"控制变量法"？
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w2_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-> \[待嵌入视频：萌发条件与控制变量\]
+### 📖 双语阅读 (Reading Time)
+
+> **Germination is when a sleeping seed starts to wake up.**
+> **萌发 (germination)** 是处于休眠状态的种子开始苏醒的时候。
+>
+> **A dormant seed waits for water and warmth to grow.**
+> 处于 **休眠的 (dormant)** 种子会等待水分和温暖来生长。
+>
+> **Seeds need fresh air to breathe under the soil.**
+> 种子在土壤下也需要新鲜空气来呼吸。
+>
+> **In our experiment, we change one variable to find the best way.**
+> 在我们的实验中，我们改变一个 **变量 (variable)** 来寻找最佳方法。
+>
+> **Now, we can watch the beans grow bigger every day.**
+> 现在，我们可以观察这些豆子每天长得更大。
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文             | 中文释义  | 例句                                  |
-|:-----------------|:----------|:--------------------------------------|
-| **Germination**  | 萌发      | The seed needs water for germination. |
-| **Temperature**  | 温度      | Suitable temperature is key.          |
-| **Air / Oxygen** | 空气/氧气 | Seeds need air to breathe.            |
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Germination** | [ˌdʒɜːmɪˈneɪʃn] | 萌发 |
+| **Dormant** | [ˈdɔːmənt] | 休眠的 |
+| **Variable** | [ˈveəriəbl] | 变量 |
 
 ## W3: 破土而出的力量
 
-**本周主题：植物的向地性与自动浇灌**
+**本周主题：根的起源**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：根的向地性。*
 
-无论种子怎么放，根为什么总是向下长？（向地性）
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w3_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-> \[待嵌入视频：向地性实验\]
+### 📖 双语阅读 (Reading Time)
+
+> **The radicle is the first part to come out of the seed.**
+> **胚根 (radicle)** 是最先从种子中长出来的部分。
+>
+> **It grows down to become the main root of the plant.**
+> 它向下生长变为主根。
+>
+> **Gravity pulls the roots deep into the dark soil.**
+> **重力 (gravity)** 吸引着根部深入黑暗的土壤。
+>
+> **Geotropism is why roots always grow toward the ground.**
+> **向地性 (geotropism)** 是根总是向地下生长的原因。
+>
+> **No matter how you put the seed, the root finds its way.**
+> 无论你如何放置种子，根总能找到它路。
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文            | 中文释义 |
-|:----------------|:---------|
-| **Gravity**     | 重力     |
-| **Root system** | 根系     |
-| **Soil**        | 土壤     |
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Radicle** | [ˈrædɪkl] | 胚根 |
+| **Gravity** | [ˈɡrævəti] | 重力 |
+| **Geotropism** | [dʒiːˈɒtrəpɪzəm] | 向地性 |
 
 ## W4: 不同的童年
 
-**本周主题：子叶的变化 & 月度总结**
+**本周主题：出苗期与长叶期**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：破土而出。*
 
-观察大豆子叶的变化与脱落。
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w4_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-> \[待嵌入视频：子叶变化观察\]
+### 📖 双语阅读 (Reading Time)
 
-### 📝 英文诗歌 (Poem)
-
-*试着朗读这首关于发芽的小诗：* \> A little seed for me to sow... \> A little earth to make it grow... \> A little sun, a little shower... \> A little while - and then, a flower!
-:::
-
-# 🌿 第二单元：植物的骨架与血脉（第 2 个月）
-
-::: panel-tabset
-## W5: 移植与根系
-
-**本周主题：直根系与须根系**
-
-### 📺 预习视频
-
-如何正确移植植物？认识直根与须根。
-
-> \[待嵌入视频：移植与根系种类\]
-
-### 📝 核心单词 (Key Vocab)
-
-| 英文             | 中文释义 | 代表植物   |
-|:-----------------|:---------|:-----------|
-| **Taproot**      | 直根     | 香菜、大豆 |
-| **Fibrous root** | 须根     | 葱、玉米   |
-| **Transplant**   | 移植     | \-         |
-
-## W6: 植物的吸管（茎）
-
-**本周主题：茎的输导功能与形态**
-
-### 📺 预习视频
-
-红墨水实验预告：茎是如何像吸管一样运输水分的？
-
-> \[待嵌入视频：红墨水实验\]
+> **The hypocotyl pulls the heavy parts out of the soil.**
+> **下胚轴 (hypocotyl)** 将沉重的部分拉出土壤。
+>
+> **In the emergence stage, the plant breaks the ground.**
+> 在 **出苗 (emergence)** 阶段，植物突破了地面。
+>
+> **The green parts now start to make food from light.**
+> 绿色的部分现在开始利用光来制造食物。
+>
+> **In the VC stage, the unifoliate leaves start to open.**
+> 在 VC 阶段，**单叶 (unifoliate)** 开始展开。
+>
+> **This is the most exciting time for our little plant.**
+> 这是我们小植物最令人兴奋的时刻。
 
 ### 📝 核心单词 (Key Vocab)
 
-| 英文        | 中文释义        |
-|:------------|:----------------|
-| **Stem**    | 茎              |
-| **Straw**   | 吸管            |
-| **Climber** | 攀缘茎 (如葡萄) |
-| **Creeper** | 匍匐茎 (如草莓) |
-| **Tuber**   | 块茎 (如土豆)   |
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Hypocotyl** | [ˌhaɪpəˈkɒtɪl] | 下胚轴 |
+| **Emergence** | [iˈmɜːdʒəns] | 出苗 |
+| **Unifoliate** | [ˌjuːnɪˈfəʊliət] | 单叶的 |
 
-## W7: 隐形指挥官（营养）
+</details>
 
-**本周主题：植物生病症状 & 生长素**
 
-### 📺 预习视频
+# 🌿 第二单元：植物的骨架与血脉
 
-植物缺氮、磷、钾会有什么表现？
+<details>
+<summary><strong>点击展开 第二单元</strong></summary>
 
-> \[待嵌入视频：植物营养缺乏症状\]
+## W5: 移植植物
+
+**本周主题：直根系**
+
+### 📺 英语阅读视频
+*跟读练习：根系网络。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w5_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **The soybean plant has a long taproot and many small roots.**
+> 大豆植株有一根长长的 **直根 (taproot)** 和许多小根。
+>
+> **These lateral roots grow out from the sides to find water.**
+> 这些 **侧根 (lateral roots)** 从侧面长出以寻找水分。
+>
+> **Small bumps called nodules on the roots help the plant.**
+> 根部被称为 **根瘤 (nodules)** 的小突起能帮助植物。
+>
+> **They work with friendly bacteria to help the plant stay strong.**
+> 它们与友好的细菌合作，帮助植物保持强壮。
+>
+> **A strong root system keeps the plant safe in the wind.**
+> 强壮的根系能保证植物在风中安全。
 
 ### 📝 核心单词 (Key Vocab)
 
--   **Nutrient** (营养)
--   **Fertilizer** (肥料)
--   **Auxin** (生长素)
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Taproot** | [ˈtæpruːt] | 直根 |
+| **Lateral** | [ˈlætərəl] | 侧根 |
+| **Nodule** | [ˈnɒdjuːl] | 根瘤 |
+
+## W6: 植物的吸管
+
+**本周主题：木质部与韧皮部**
+
+### 📺 英语阅读视频
+*跟读练习：茎的结构。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w6_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **The stem has xylem tubes to carry water up to the leaves.**
+> 茎里有 **木质部 (xylem)** 管道，负责把水带到叶子。
+>
+> **The phloem tissue carries sugar down to the roots.**
+> **韧皮部 (phloem)** 组织负责把糖分向下带到根部。
+>
+> **Capillary action helps water move up through thin tubes.**
+> **毛细现象 (capillary)** 帮助水分通过细管向上移动。
+>
+> **The stem works like a system of drinking straws.**
+> 茎的作用就像一套吸管系统。
+>
+> **These special pipes keep the plant healthy and tall.**
+> 这些特殊的管道让植物保持健康和高大。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Xylem** | [ˈzaɪləm] | 木质部 |
+| **Phloem** | [ˈfləʊem] | 韧皮部 |
+| **Capillary** | [kəˈpɪləri] | 毛细管 |
+
+## W7: 植物的“隐形指挥官”
+
+**本周主题：生长素**
+
+### 📺 英语阅读视频
+*跟读练习：生长素的作用。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w7_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **Auxin is a plant hormone that helps cells grow longer.**
+> **生长素 (auxin)** 是一种帮助细胞变长的植物 **激素 (hormone)**。
+>
+> **It is made in the tip of the stem to control growth.**
+> 它在茎尖产生以控制生长。
+>
+> **High levels of auxin tell the cells to elongate quickly.**
+> 高水平的生长素会告诉细胞快速 **伸长 (elongate)**。
+>
+> **It acts as an invisible commander for the whole plant.**
+> 它是整株植物的隐形指挥官。
+>
+> **If we remove the tip, the plant will grow more side leaves.**
+> 如果我们去除顶端，植物就会长出更多侧叶。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Auxin** | [ˈɔːksɪn] | 生长素 |
+| **Hormone** | [ˈhɔːməʊn] | 激素 |
+| **Elongate** | [ɪˈlɒŋɡeɪt] | 伸长 |
 
 ## W8: 向上的力量
 
-**本周主题：植物的向光性**
+**本周主题：向光性**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：向光性原理。*
 
-植物为什么总是向着太阳长？（迷宫盒实验）
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w8_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-> \[待嵌入视频：向光性迷宫实验\]
+### 📖 双语阅读 (Reading Time)
+
+> **Phototropism is when a plant bends toward the light source.**
+> **向光性 (phototropism)** 是植物弯向光源的现象。
+>
+> **This interesting phenomenon helps the plant get more sun.**
+> 这种有趣的 **现象 (phenomenon)** 帮助植物获得更多阳光。
+>
+> **Auxin moves to the shaded side to make the plant curve.**
+> 生长素移动到阴影侧，使植物 **弯曲 (curve)**。
+>
+> **A sunny window is the best place for our plants.**
+> 阳光充足的窗户是我们植物最好的地方。
+>
+> **Plants are sun-seekers because they need energy to live.**
+> 植物是追光者，因为它们需要能量来生存。
 
 ### 📝 核心单词 (Key Vocab)
 
--   **Sunlight** (阳光)
--   **Bend** (弯曲)
--   **Growth** (生长)
-:::
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Phototropism** | [ˌfəʊtəʊˈtrɒpɪzəm] | 向光性 |
+| **Phenomenon** | [fəˈnɒmɪnən] | 现象 |
+| **Curve** | [kɜːv] | 弯曲 |
 
-# 🍃 第三单元：能量工厂（第 3 个月）
+</details>
 
-::: panel-tabset
-## W9: 绿色的秘密
 
-**本周主题：叶子的结构**
+# 🍃 第三单元：能量工厂
 
-### 📺 预习视频
+<details>
+<summary><strong>点击展开 第三单元</strong></summary>
 
-> \[待嵌入视频：叶片结构\]
+## W9: 叶子的指纹
 
-### 📝 核心单词
+**本周主题：三出复叶与脉络**
 
--   **Leaf / Leaves** (叶子)
--   **Vein** (叶脉)
--   **Stomata** (气孔)
+### 📺 英语阅读视频
+*跟读练习：三出复叶。*
 
-## W10: 光合作用
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w9_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-**本周主题：植物如何制造食物**
+### 📖 双语阅读 (Reading Time)
 
-### 📺 预习视频
+> **Soybean plants have trifoliate leaves with three parts.**
+> 大豆植株有 **三出的 (trifoliate)** 叶子，由三个部分组成。
+>
+> **Each part of the leaf is called a small leaflet.**
+> 叶子的每个部分被称作一片 **小叶 (leaflet)**。
+>
+> **The leaf vein works like a road to carry water.**
+> **叶脉 (vein)** 就像马路一样输送水分。
+>
+> **These leaves are designed to capture the most sunlight.**
+> 这些叶子的设计是为了捕获最多的阳光。
+>
+> **We can look at the patterns to know different plants.**
+> 我们可以通过观察图案来认识不同的植物。
 
-> \[待嵌入视频：光合作用演示\]
+### 📝 核心单词 (Key Vocab)
 
-### 📝 核心单词
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Trifoliate** | [traɪˈfəʊliət] | 三出的 |
+| **Leaflet** | [ˈliːflət] | 小叶 |
+| **Vein** | [veɪn] | 叶脉 |
 
--   **Photosynthesis** (光合作用)
--   **Carbon Dioxide** (二氧化碳)
--   **Oxygen** (氧气)
+## W10: 隐形的气孔
 
-## W11: 植物的呼吸
+**本周主题：气孔与蒸腾作用**
 
-**本周主题：蒸腾作用与呼吸作用**
+### 📺 英语阅读视频
+*跟读练习：气孔的功能。*
 
-### 📺 预习视频
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w10_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-> \[待嵌入视频：蒸腾与呼吸\]
+### 📖 双语阅读 (Reading Time)
 
-### 📝 核心单词
+> **Plants breathe through tiny holes called stomata.**
+> 植物通过被称为 **气孔 (stomata)** 的小孔呼吸。
+>
+> **Most stomata are under the green leaves.**
+> 大多数 **气孔 (stomata)** 都在绿色的叶子背面。
+>
+> **Transpiration is the process where water goes into the air.**
+> **蒸腾作用 (transpiration)** 是水分进入空气的过程。
+>
+> **This water vapor helps the plant stay cool.**
+> 这些 **水蒸气 (vapor)** 帮助植物保持凉爽。
+>
+> **It works like a straw to pull water from the roots.**
+> 它的作用就像吸管，把水分从根部向上拉。
 
--   **Transpiration** (蒸腾作用)
--   **Respiration** (呼吸作用)
+### 📝 核心单词 (Key Vocab)
 
-## W12: 单元小结
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Stomata** | [ˈstəʊmətə] | 气孔 |
+| **Transpiration** | [ˌtrænspɪˈreɪʃn] | 蒸腾作用 |
+| **Vapor** | [ˈveɪpə(r)] | 蒸气 |
 
-**本周主题：叶子标本制作与汇报**
+## W11: 光合作用魔法
 
-### 🎒 准备工作
+**本周主题：光合作用机制**
 
--   收集不同形状的落叶。
-:::
+### 📺 英语阅读视频
+*跟读练习：光合作用。*
 
-# 🌸 第四单元：繁花似锦（第 4 个月）
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w11_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-::: panel-tabset
-## W13: 花的解剖
+### 📖 双语阅读 (Reading Time)
 
-**本周主题：花的结构（雄蕊与雌蕊）**
+> **Photosynthesis is how plants make food using sunlight.**
+> **光合作用 (photosynthesis)** 是植物利用阳光制造食物的方法。
+>
+> **Inside chloroplasts, sunlight is used to make fuel.**
+> 在 **叶绿体 (chloroplast)** 内部，阳光被用来制造燃料。
+>
+> **Glucose is the sugar that gives the plant energy.**
+> **葡萄糖 (glucose)** 是给植物能量的糖。
+>
+> **This process also releases oxygen for us to breathe.**
+> 这个过程也释放出供我们呼吸的氧气。
+>
+> **Plants are amazing producers for our whole world.**
+> 植物是我们整个世界的奇妙生产者。
 
-### 📺 预习视频
+### 📝 核心单词 (Key Vocab)
 
-> \[待嵌入视频：花的解剖\]
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Photosynthesis** | [/ˌfəʊtəʊˈsɪnθəsɪs/] | 光合作用 |
+| **Chloroplast** | [ˈklɔːrəplæst] | 叶绿体 |
+| **Glucose** | [ˈɡluːkəʊs] | 葡萄糖 |
 
-### 📝 核心单词
+## W12: 多彩的叶子
 
--   **Flower** (花)
--   **Petal** (花瓣)
--   **Stamen** (雄蕊) / **Pistil** (雌蕊)
+**本周主题：叶绿素与辅助色素**
 
-## W14: 传粉的故事
+### 📺 英语阅读视频
+*跟读练习：叶绿素与色素。*
 
-**本周主题：蜜蜂与风的帮助**
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w12_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-### 📺 预习视频
+### 📖 双语阅读 (Reading Time)
 
-> \[待嵌入视频：传粉过程\]
+> **Chlorophyll is the green pigment inside the leaves.**
+> **叶绿素 (chlorophyll)** 是叶子内部的绿色 **色素 (pigment)**。
+>
+> **In autumn, the plant stops making this green color.**
+> 在秋天，植物停止制造这种绿色。
+>
+> **Hidden colors like yellow and orange start to reveal themselves.**
+> 隐藏的颜色如黄色和橙色开始 **显露 (reveal)**。
+>
+> **This happens when the days become shorter and cooler.**
+> 当白天变短、天气变凉时，这就会发生。
+>
+> **These color changes show the plant is getting ready for winter.**
+> 这些颜色变化表明植物正在为冬天做准备。
 
-### 📝 核心单词
+### 📝 核心单词 (Key Vocab)
 
--   **Pollination** (授粉)
--   **Pollen** (花粉)
--   **Bee** (蜜蜂)
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Chlorophyll** | [ˈklɒrəfɪl] | 叶绿素 |
+| **Pigment** | [ˈpɪɡmənt] | 色素 |
+| **Reveal** | [rɪˈviːl] | 显露 |
+
+</details>
+
+
+# 🌸 第四单元：繁衍的盛宴
+
+<details>
+<summary><strong>点击展开 第四单元</strong></summary>
+
+## W13: 花的解剖室
+
+**本周主题：生殖器官**
+
+### 📺 英语阅读视频
+*跟读练习：花的结构。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w13_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **The stamen is the male part that makes yellow powder.**
+> **雄蕊 (stamen)** 是制造黄色粉末的雄性部分。
+>
+> **The pistil is the female part in the middle of the flower.**
+> **雌蕊 (pistil)** 是花朵中间的雌性部分。
+>
+> **Symmetry in flowers makes them look very beautiful.**
+> 花朵中的 **对称性 (symmetry)** 让它们看起来非常漂亮。
+>
+> **Petals use bright colors to attract small friends.**
+> 花瓣利用鲜艳的颜色来吸引小伙们。
+>
+> **Each flower is a tiny factory for future seeds.**
+> 每一朵花都是制造未来种子的微型工厂。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Stamen** | [ˈsteɪmən] | 雄蕊 |
+| **Pistil** | [ˈpɪstɪl] | 雌蕊 |
+| **Symmetry** | [ˈsɪmətri] | 对称性 |
+
+## W14: 传粉者的秘密
+
+**本周主题：传粉机制**
+
+### 📺 英语阅读视频
+*跟读练习：传粉者。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w14_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **Pollination happens when pollen moves to a new flower.**
+> **传粉 (pollination)** 发生在花粉移动到新花朵的时候。
+>
+> **A pollinator like a bee helps the plant make seeds.**
+> 像蜜蜂这样的 **传粉者 (pollinator)** 帮助植物制造种子。
+>
+> **Flowers offer sweet nectar as a reward for the insects.**
+> 花朵提供甜美的 **花蜜 (nectar)** 作为对昆虫的奖励。
+>
+> **Bright colors and nice smells attract these helpers.**
+> 鲜艳的颜色和好闻的气味吸引了这些帮手。
+>
+> **Without these small partners, many plants cannot grow.**
+> 如果没有这些小伙伴，许多植物将无法生长。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Pollination** | [ˌpɒləˈneɪʃn] | 传粉 |
+| **Pollinator** | [ˈpɒləneɪtə(r)] | 传粉者 |
+| **Nectar** | [ˈnektə(r)] | 花蜜 |
 
 ## W15: 果实的诞生
 
-**本周主题：从花到果实的变化**
+**本周主题：果实与 DNA 蓝图**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：DNA 与遗传。*
 
-> \[待嵌入视频：受精与发育\]
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w15_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-### 📝 核心单词
+### 📖 双语阅读 (Reading Time)
 
--   **Fruit** (果实)
--   **Fertilization** (受精)
+> **After the flower dies, a small pod starts to grow.**
+> 花谢后，一个小 **豆荚 (pod)** 开始生长。
+>
+> **Inside the pod, we can find the future soybean seeds.**
+> 在 **豆荚 (pod)** 里面，我们可以找到未来的大豆种子。
+>
+> **DNA is like a special blueprint for every living thing.**
+> **DNA (DNA)** 就像每一个生物的特殊 **蓝图 (blueprint)**。
+>
+> **It tells the plant how to look and how to grow.**
+> 它告诉植物长什么样以及如何生长。
+>
+> **Each seed holds the secret of its parents inside.**
+> 每一颗种子内部都藏着父母的秘密。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Pod** | [pɒd] | 豆荚 |
+| **DNA** | [ˌdiː en ˈeɪ] | DNA |
+| **Blueprint** | [ˈbluːprɪnt] | 蓝图 |
 
 ## W16: 种子的旅行
 
-**本周主题：种子的传播方式**
+**本周主题：传播策略**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：种子传播。*
 
-> \[待嵌入视频：种子传播\]
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w16_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-### 📝 核心单词
+### 📖 双语阅读 (Reading Time)
 
--   **Dispersal** (传播)
--   **Wind / Water / Animal** (风/水/动物)
-:::
+> **Seed dispersal is how seeds travel to a new place.**
+> 种子 **传播 (dispersal)** 是种子旅行到新地方的方法。
+>
+> **This strategy helps the small offspring find a home.**
+> 这种 **策略 (strategy)** 帮助幼小的 **后代 (offspring)** 找到一个家。
+>
+> **Some seeds use the wind to fly far away.**
+> 有些种子利用风飞到很远的地方。
+>
+> **Other seeds have hooks to hitch a ride on animals.**
+> 另一些种子有钩子，可以搭动物的便车。
+>
+> **Nature has many clever ways to move life around.**
+> 大自然有许多聪明的方法来传递生命。
 
-# 🌾 第五单元：生命的循环（第 5 个月）
+### 📝 核心单词 (Key Vocab)
 
-::: panel-tabset
-## W17: 收获的季节
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Dispersal** | [dɪˈspɜːsl] | 传播 |
+| **Offspring** | [ˈɒfsprɪŋ] | 后代 |
+| **Strategy** | [ˈstrætədʒi] | 策略 |
 
-**本周主题：大豆的收获与测量**
+</details>
 
-### 📺 预习视频
 
-> \[待嵌入视频：大豆收获\]
 
-### 📝 核心单词
+# 🌾 第五单元：从田野到生活
 
--   **Harvest** (收获)
--   **Pod** (豆荚)
+<details>
+<summary><strong>点击展开 第五单元</strong></summary>
 
-## W18: 舌尖上的大豆
+## W17: 克隆大师 (无性繁殖) 
 
-**本周主题：植物与人类食物**
+**本周主题：植物无性繁殖**
 
-### 📺 预习视频
+### 📺 英语阅读视频
+*跟读练习：无性繁殖。*
 
-> \[待嵌入视频：豆制品制作\]
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w17_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-### 📝 核心单词
+### 📖 双语阅读 (Reading Time)
 
--   **Soybean milk** (豆浆)
--   **Tofu** (豆腐)
+> **Cloning is a way to make a plant that is the same as its parent.**
+> **克隆 (cloning)** 是一种制造与亲本相同的植物的方法。
+>
+> **Vegetative propagation uses a part of a plant to grow a new one.**
+> 营养 **繁殖 (propagation)** 利用植物的一部分长出新植株。
+>
+> **These new plants will be identical to the original one.**
+> 这些新植物将与原来的植株 **完全相同的 (identical)**。
+>
+> **We can use a small stem to grow a whole new bean.**
+> 我们可以利用一小段茎长出一株全新的豆子。
+>
+> **Farmers use this method to keep the best traits.**
+> 农民利用这种方法来保留最好的特征。
 
-## W19: 生态循环
+### 📝 核心单词 (Key Vocab)
 
-**本周主题：植物在自然界中的作用**
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Cloning** | [ˈkləʊnɪŋ] | 克隆 |
+| **Propagation** | [ˌprɒpəˈɡeɪʃn] | 繁殖 |
+| **Identical** | [aɪˈdentɪkl] | 完全相同的 |
 
-### 📺 预习视频
+## W18: 植物魔法师（应用）
 
-> \[待嵌入视频：生态循环\]
+**本周主题：提取与艺术**
 
-### 📝 核心单词
+### 📺 英语阅读视频
+*跟读练习：植物提取物。*
 
--   **Cycle** (循环)
--   **Ecosystem** (生态系统)
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w18_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
 
-## W20: 课程结业展
+### 📖 双语阅读 (Reading Time)
 
-**本周主题：我们的植物档案展示**
+> **We can extract beautiful colors from many plants.**
+> 我们可以从许多植物中 **提取 (extract)** 漂亮的颜色。
+>
+> **Anthocyanin is a pigment that makes fruits purple or blue.**
+> **花青素 (anthocyanin)** 是一种让果实变紫或变蓝的色素。
+>
+> **People use this plant dye to color their clothes.**
+> 人们使用这种植物 **染料 (dye)** 给衣服上色。
+>
+> **These natural colors are very safe for our world.**
+> 这些天然颜色对我们的世界非常安全。
+>
+> **We can make our own art using the magic of plants.**
+> 我们可以利用植物的魔力创作自己的艺术。
 
-### 🎒 准备工作
+### 📝 核心单词 (Key Vocab)
 
--   整理好这学期所有的观察日记。
--   准备好你的植物盆栽。
-:::
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Extract** | [ɪkˈstrækt] | 提取 |
+| **Anthocyanin** | [ˌænθəˈsaɪənɪn] | 花青素 |
+| **Dye** | [daɪ] | 染料 |
+
+## W19: 从田野到餐桌
+
+**本周主题：加工流程**
+
+### 📺 英语阅读视频
+*跟读练习：大豆加工与营养。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w19_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **Soybeans are full of protein to help us grow strong.**
+> 大豆富含 **蛋白质 (protein)**，能帮我们长得强壮。
+>
+> **These beans are very nutritious and good for our health.**
+> 这些豆子非常有 **营养的 (nutritious)**，对我们的健康有好处。
+>
+> **The process of making soy milk is easy and fun.**
+> 制作豆浆的 **过程 (process)** 既简单又有味。
+>
+> **We soak, grind, and boil the beans to make a drink.**
+> 我们浸泡、研磨并煮沸豆子来制作饮料。
+>
+> **Now we know where our healthy food comes from.**
+> 现在我们知道我们的健康食物是从哪里来的了。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Protein** | [ˈprəʊtiːn] | 蛋白质 |
+| **Nutritious** | [njuˈtrɪʃəs] | 有营养的 |
+| **Process** | [ˈprəʊses] | 过程 |
+
+## W20: 终极展览
+
+**本周主题：总结与庆祝**
+
+### 📺 英语阅读视频
+*跟读练习：好奇心与发现。*
+
+<video width="100%" controls style="border-radius: 8px;">
+  <source src="videos/w20_read.mp4" type="video/mp4">
+  您的浏览器不支持视频播放。
+</video>
+
+### 📖 双语阅读 (Reading Time)
+
+> **Our final exhibition is a time to show our work.**
+> 我们的最终 **展览 (exhibition)** 是展示我们作品的时候。
+>
+> **We share our scientific findings with our friends.**
+> 我们与朋友们分享我们的科学 **发现 (findings)**。
+>
+> **Curiosity helps us learn more about the natural world.**
+> **好奇心 (curiosity)** 帮助我们了解更多自然界的知识。
+>
+> **Each plant tells a unique story of its life journey.**
+> 每棵植物都讲述了一个独特的生命旅程故事。
+>
+> **This is the end of the course, but the start of a new journey.**
+> 这是课程的结束，但也是新旅程的开始。
+
+### 📝 核心单词 (Key Vocab)
+
+| 英文 | 音标 | 中文释义 |
+|:---|:---|:---|
+| **Exhibition** | [ˌeksɪˈbɪʃn] | 展览 |
+| **Findings** | [ˈfaɪndɪŋz] | 发现 |
+| **Curiosity** | [ˌkjʊəriˈɒsəti] | 好奇心 |
+
+</details>

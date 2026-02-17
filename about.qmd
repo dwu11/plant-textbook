@@ -35,4 +35,29 @@ title: "关于我们"
 :::
 
 ---
+
+### 🏫 合作院校与支持
+
+本项目由来自以下学术机构的研究人员共同开发：
+
+::: {layout-ncol=2}
+
+::: {.center-text style="text-align: center;"}
+![](images/school_1.png){width="160"}
+
+**[第一所学校名称]**
+*[学院/部门名称]*
+:::
+
+::: {.center-text style="text-align: center;"}
+![](images/school_2.png){width="160"}
+
+**The George Washington University**
+
+*The Graduate School of Education and Human Development*
+:::
+
+:::
+
+---
 *© 2025 植物生长记项目组. All rights reserved.*
