@@ -43,18 +43,16 @@ title: "关于我们"
 ::: {layout-ncol=2}
 
 ::: {.center-text style="text-align: center;"}
-![](images/school_1.png){width="160"}
+![](images/school_1.png){width=140px}
 
-**[第一所学校名称]**
-*[学院/部门名称]*
+**湘潭市雨湖区九华和平科大小学**
 :::
 
 ::: {.center-text style="text-align: center;"}
-![](images/school_2.png){width="160"}
+![](images/school_2.png){width=210px}
 
 **The George Washington University**
 
-*The Graduate School of Education and Human Development*
 :::
 
 :::
