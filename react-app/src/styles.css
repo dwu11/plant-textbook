@@ -1,0 +1,260 @@
+/* Basic styling to resemble the existing Quarto theme */
+:root {
+  --brand: #78c2ad;
+  --bg: #fff;
+  --text: #1a1a1a;
+  --muted: #555;
+  --border: rgba(0, 0, 0, 0.08);
+  --radius: 8px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
+  background: var(--bg);
+  color: var(--text);
+}
+
+a {
+  color: var(--brand);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.app {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+}
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1rem 1.5rem;
+  background: var(--brand);
+  color: white;
+  flex-wrap: wrap;
+}
+
+.navbar-left {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  align-items: center;
+}
+
+.navbar a {
+  color: white;
+  font-weight: 500;
+}
+
+.navbar a.active {
+  text-decoration: underline;
+}
+
+.brand {
+  font-weight: 700;
+  font-size: 1.2rem;
+}
+
+.content {
+  flex: 1;
+  max-width: 900px;
+  margin: 1.5rem auto;
+  padding: 0 1rem;
+}
+
+.footer {
+  padding: 1rem;
+  text-align: center;
+  border-top: 1px solid var(--border);
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
+.markdown h1,
+.markdown h2,
+.markdown h3,
+.markdown h4 {
+  margin-top: 1.5rem;
+}
+
+.markdown p {
+  line-height: 1.7;
+  margin: 0.75rem 0;
+}
+
+.markdown img {
+  max-width: 100%;
+  height: auto;
+}
+
+.markdown pre {
+  background: rgba(0, 0, 0, 0.05);
+  padding: 1rem;
+  border-radius: var(--radius);
+  overflow-x: auto;
+}
+
+.markdown blockquote {
+  border-left: 4px solid var(--brand);
+  padding-left: 1rem;
+  color: var(--muted);
+  margin: 1rem 0;
+}
+
+.hero-image {
+  width: 100%;
+  max-width: 900px;
+  display: block;
+  margin: 1.5rem auto;
+  border-radius: 12px;
+}
+
+.callout {
+  border: 1px solid rgba(120, 194, 173, 0.6);
+  background: rgba(120, 194, 173, 0.12);
+  padding: 1rem 1.25rem;
+  border-radius: var(--radius);
+  margin: 1.5rem 0;
+}
+
+.callout-note {
+  border-color: rgba(120, 194, 173, 0.8);
+}
+
+.callout-important {
+  border-color: rgba(255, 120, 120, 0.8);
+  background: rgba(255, 120, 120, 0.12);
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.grid-2 {
+  grid-template-columns: repeat(2, 1fr);
+}
+
+.card {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  padding: 1rem;
+  border-radius: var(--radius);
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.center {
+  text-align: center;
+}
+
+.tabs {
+  display: grid;
+  gap: 1rem;
+  margin: 1.5rem 0;
+}
+
+.tab {
+  border: 1px solid rgba(0, 0, 0, 0.08);
+  border-radius: var(--radius);
+  padding: 1rem;
+  background: rgba(255, 255, 255, 0.7);
+}
+
+.responsive-iframe {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  border-radius: var(--radius);
+}
+
+.responsive-iframe iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border: 0;
+}
+
+.video-container {
+  margin: 1.5rem 0;
+}
+
+.muted {
+  color: var(--muted);
+}
+
+.searchbar {
+  position: relative;
+  display: inline-flex;
+  align-items: center;
+  margin-left: 1rem;
+}
+
+.searchbar-input {
+  border-radius: 999px;
+  border: 1px solid rgba(255, 255, 255, 0.6);
+  padding: 0.35rem 0.75rem;
+  width: 180px;
+  background: rgba(255, 255, 255, 0.15);
+  color: white;
+  outline: none;
+  transition: background 0.15s ease, width 0.2s ease;
+}
+
+.searchbar-input:focus {
+  background: rgba(255, 255, 255, 0.9);
+  color: var(--text);
+  width: 240px;
+}
+
+.searchbar-results {
+  position: absolute;
+  top: 110%;
+  right: 0;
+  width: 240px;
+  background: white;
+  border: 1px solid rgba(0, 0, 0, 0.12);
+  border-radius: var(--radius);
+  box-shadow: 0 8px 20px rgba(0, 0, 0, 0.12);
+  margin: 0;
+  padding: 0.25rem 0;
+  list-style: none;
+  z-index: 10;
+}
+
+.searchbar-results li {
+  padding: 0;
+}
+
+.searchbar-results button {
+  width: 100%;
+  text-align: left;
+  background: transparent;
+  border: none;
+  padding: 0.5rem 0.75rem;
+  cursor: pointer;
+  font: inherit;
+  color: var(--text);
+}
+
+.searchbar-results button:hover {
+  background: rgba(120, 194, 173, 0.2);
+}
+
+.searchbar-empty {
+  padding: 0.5rem 0.75rem;
+  color: var(--muted);
+}
